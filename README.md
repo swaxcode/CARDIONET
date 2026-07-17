@@ -18,6 +18,6 @@ JavaScript (ES6)
 
 
 Live Demo:
-https://cardionet.vercel.app/  
+https://share.gemini.google/2s7Jzvy8itUS  
 
 This project focuses on blending real-time graphics, sound design, and conceptual storytelling into a cohesive interactive system.
